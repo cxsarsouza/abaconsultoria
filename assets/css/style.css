@@ -2188,6 +2188,7 @@ responsive
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
   }
   .card-consul{
     margin-bottom: 30px;
